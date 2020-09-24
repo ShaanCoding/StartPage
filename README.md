@@ -8,7 +8,7 @@
 
 ## Authors
 
-* **Shaan Khan** - Edited a bit of the CSS file to find my aesthetics and requirements
+* **Shaan Khan** - Edited a bit of the CSS file to fit my aesthetics and requirements
 
 * **nytly** - For making the entire thing [Original Project](https://notabug.org/nytly/home)
 
