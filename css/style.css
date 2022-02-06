@@ -12,6 +12,7 @@
   --orange: #7ff6c8;
   --branch: 1px solid #a7a9be;
   --background-picture: url("https://startpage.shaankhan.dev/Images/background.gif");
+  height: 100vh;
 }
 
 html {
@@ -20,7 +21,7 @@ html {
 
 body {
   background: var(--background-picture);
-  background-size: 100vh 100vh;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
