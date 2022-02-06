@@ -20,7 +20,7 @@ html {
 
 body {
   background: var(--background-picture);
-  background-size: cover;
+  background-size: 100vh 100vh;
   background-repeat: no-repeat;
 }
 
